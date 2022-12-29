@@ -1,4 +1,4 @@
-// Hey Hey lit bit se texte c'est pour toi 
+// Hey Hey lit bien ce texte c'est pour toi 
 
 // VOilà le code pour réaliser le fameux projet
 // Il est publique en ce moment mais nous passerons en mode privée
