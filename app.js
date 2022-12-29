@@ -1,3 +1,19 @@
+// Hey Hey lit bit se texte c'est pour toi 
+
+// VOilà le code pour réaliser le fameux projet
+// Il est publique en ce moment mais nous passerons en mode privée
+// une fois QUE TU AURAS ton compte github, j'espère que tu le feras bientot
+//
+
+// Donc voila les lignes tu t'attarderas surtout sur les parties avec les commentaires
+// C'est là qu'on a besoin de ton aide.
+
+
+// Merci si tu veux bien coopérer. 
+// Ton père également sera très satisfait !!
+
+// PS: ne pas partager ces informations 
+
 let presentation = document.getElementById('presentation')
 let themes = document.getElementById('themes')
 let histoireTheme = document.getElementById('histoireTheme')
